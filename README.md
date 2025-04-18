@@ -3,7 +3,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Larissa Rafael, tenho 18 anos e sou natural de Santa Catarina-BR. Estou na área a cerca de 6 mesês, no momento atuando com Java e SpringBot.
+Me chamo Rafael, tenho 18 anos e sou natural de Santa Catarina-BR. Estou na área a cerca de 6 mesês, no momento atuando com Java e SpringBot.
 </p
     </a> 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
@@ -11,9 +11,8 @@ Me chamo Larissa Rafael, tenho 18 anos e sou natural de Santa Catarina-BR. Estou
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/MartinsBackend?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
- 
-    </a>
+            />
+                </a>
      <a href="https://github.com/MartinsBackend?tab=followers">
         <img 
             alt="Seguidores" 
@@ -23,6 +22,7 @@ Me chamo Larissa Rafael, tenho 18 anos e sou natural de Santa Catarina-BR. Estou
 </p>
 
 ---
+            
 
 ### 🤖 Linguagens e Tecnologias
 
