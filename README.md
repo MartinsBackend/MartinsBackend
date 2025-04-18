@@ -12,13 +12,7 @@ Me chamo Larissa Rafael, tenho 18 anos e sou natural de Santa Catarina-BR. Estou
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/MartinsBackend?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
-    </a>
-    <a href="https://github.com/MartinsBackend?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/MartinsBackend?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+ 
     </a>
      <a href="https://github.com/MartinsBackend?tab=followers">
         <img 
