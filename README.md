@@ -28,9 +28,17 @@ Me chamo Rafael, tenho 18 anos e sou natural de Santa Catarina-BR. Estou na áre
 
 <img 
     align="left" 
+    alt="Python" 
+    title="Python"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img 
+    align="left" 
     alt="Java" 
     title="Java"
-    width="40px" 
+    width="45px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg"
 />
@@ -38,7 +46,7 @@ Me chamo Rafael, tenho 18 anos e sou natural de Santa Catarina-BR. Estou na áre
     align="left" 
     alt="Spring" 
     title="Spring"
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
 />
@@ -46,7 +54,7 @@ Me chamo Rafael, tenho 18 anos e sou natural de Santa Catarina-BR. Estou na áre
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
