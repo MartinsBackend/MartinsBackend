@@ -66,7 +66,6 @@ Me chamo Rafael, tenho 18 anos e sou natural de Santa Catarina-BR. Estou na áre
 ### 📊 Estatísticas
 
 <br/>
-<br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=MartinsBackend&theme=merko&include_all_commits=true" />
