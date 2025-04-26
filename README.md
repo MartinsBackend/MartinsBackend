@@ -65,21 +65,14 @@ Me chamo Rafael, tenho 18 anos e sou natural de Santa Catarina-BR. Estou na áre
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MartinsBackend&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<br/>
+<br/>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinsBackend&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=MartinsBackend&theme=merko&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MartinsBackend&theme=merko&layout=compact&langs_count=8&card_width=320&custom_title=Tecnologias" />
+</a>
 </p>
 
