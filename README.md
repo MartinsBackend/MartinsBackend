@@ -57,7 +57,7 @@ Me chamo Rafael, tenho 18 anos e sou natural de Santa Catarina-BR. Estou na áre
     title="Git"
     width="40px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
 />
 
 <br/>
