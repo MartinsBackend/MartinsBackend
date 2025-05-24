@@ -26,14 +26,7 @@ Me chamo Rafael, tenho 18 anos e sou natural de Santa Catarina-BR. Estou na áre
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
+
 <img 
     align="left" 
     alt="Java" 
