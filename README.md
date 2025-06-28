@@ -3,7 +3,6 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Rafael, tenho 18 anos e sou natural de Santa Catarina-BR. Estou na área a cerca de 8 mesês, no momento atuando com Java e SpringBot.
 </p
     </a> 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
