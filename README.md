@@ -7,7 +7,7 @@
 - **SOLID**
 - **MySQL**
 
-Meu foco é construir projetos sólidos e práticos, aplicando boas práticas de desenvolvimento e me preparando para oportunidades como **estágio em desenvolvimento backend**.  
+Meu foco é construir projetos sólidos e práticos, aplicando boas práticas de desenvolvimento e me preparando para oportunidades em **estágio no desenvolvimento backend**.  
 ---
 
 ### 📬 Para Contato
