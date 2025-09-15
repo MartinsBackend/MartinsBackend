@@ -47,7 +47,6 @@ Meu foco é construir projetos sólidos e práticos, aplicando boas práticas de
 
 ### 🚀 Projetos em Destaque
 
-- [📌 Task Manager](https://github.com/MartinsBackend/task-manager) → Sistema de gerenciamento de tarefas com **Java + POO + boas práticas**  
 
 ---
 
