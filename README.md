@@ -1,68 +1,54 @@
+# 👨‍💻 Rafael Martins
 
-#  👨‍💻 Rafael
+**`Desenvolvedor Backend | Java & Spring`**
 
-**`Desenvolvedor Backend`**
+- **Java**
+- **Spring Boot**
+- **SOLID**
+- **MySQL**
 
-</p
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/MartinsBackend?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-            />
-                </a>
-     <a href="https://github.com/MartinsBackend?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/MartinsBackend?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-</p>
+Meu foco é construir projetos sólidos e práticos, aplicando boas práticas de desenvolvimento e me preparando para oportunidades como **estágio em desenvolvimento backend**.  
+---
+
+### 📬 Para Contato
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MartinsBackend)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
 ---
-            
 
-### 🤖 Linguagens e Tecnologias
+### 🛠️ Linguagens e Tecnologias
 
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="45px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg"
-/>
-<img 
-    align="left" 
-    alt="Spring" 
-    title="Spring"
-    width="35px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+<img align="left" alt="Java" title="Java" width="50px" style="margin-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg"/>
+<img align="left" alt="Spring" title="Spring Boot" width="40px" style="margin-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+<img align="left" alt="Git" title="Git" width="40px" style="margin-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+<img align="left" alt="Linux" title="Linux" width="40px" style="margin-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+<img align="left" alt="MySQL" title="MySQL" width="45px" style="margin-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
 <br/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=MartinsBackend&theme=merko&include_all_commits=true&locale=pt-br" />
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<a href="https://github.com/MartinsBackend">
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=MartinsBackend&theme=merko&show_icons=true&count_private=true&hide_border=true&locale=pt-br" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MartinsBackend&theme=merko&layout=compact&langs_count=8&card_width=320&custom_title=Tecnologias" />
+<a href="https://github.com/MartinsBackend">
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MartinsBackend&theme=merko&layout=compact&langs_count=8&hide_border=true&custom_title=Tecnologias" />
 </a>
-</p>
 
+---
+
+### 🚀 Projetos em Destaque
+
+- [📌 Task Manager](https://github.com/MartinsBackend/task-manager) → Sistema de gerenciamento de tarefas com **Java + POO + boas práticas**  
+
+---
+
+✨ Sempre em busca de aprendizado e novos desafios no desenvolvimento backend!  
