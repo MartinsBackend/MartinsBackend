@@ -7,16 +7,9 @@
 - **SOLID**
 - **MySQL**
 
-Meu foco é construir projetos sólidos e práticos, aplicando boas práticas de desenvolvimento e me preparando para oportunidades em **estágio no desenvolvimento backend**.  
+Meu foco é construir projetos sólidos e práticos, aplicando boas práticas de desenvolvimento e me preparando para oportunidades **em desenvolvimento backend**.  
 ---
 
-### 📬 Para Contato
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MartinsBackend)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-
----
 
 ### 🛠️ Linguagens e Tecnologias
 
@@ -31,13 +24,11 @@ Meu foco é construir projetos sólidos e práticos, aplicando boas práticas de
 <br/>
 <br/>
 
-
 ---
 
 ### 📊 Estatísticas do GitHub
 
 ![Rafael's GitHub stats](https://github-readme-stats-fa26.vercel.app/api?username=MartinsBackend&show_icons=true&theme=maroongold)
-</a>
 
 ---
 
