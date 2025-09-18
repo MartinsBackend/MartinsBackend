@@ -28,8 +28,7 @@ Meu foco é construir projetos sólidos e práticos, aplicando boas práticas de
 
 ### 📊 Estatísticas do GitHub
 
-![Rafael's GitHub stats](https://github-readme-stats-fa26.vercel.app/api?username=MartinsBackend&show_icons=true&theme=maroongold)
-
+![Rafael's GitHub stats](https://github-readme-stats-fa26.vercel.app/api?username=MartinsBackend&show_icons=true&theme=maroongold&count_private=true&cache_seconds=1800)
 ---
 
 ### 🚀 Projetos em Destaque
